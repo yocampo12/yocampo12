@@ -40,28 +40,20 @@ I'm a 4th-year IT student with a strong interest in **networking and technology*
 
 ## 🛠️ Tools I Use
 
-**Networking**
+<p>
+  <b>🌐 Networking</b><br>
+  <img src="https://img.shields.io/badge/Cisco-Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" /> <img src="https://img.shields.io/badge/CCNA-Networking_Courses-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA networking courses" />
+</p>
 
-<img src="https://img.shields.io/badge/Cisco-Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
-<img src="https://img.shields.io/badge/CCNA-Networking_Courses-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="CCNA networking courses" />
+<p>
+  <b>💻 Programming</b><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+</p>
 
-**Programming**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-
-**Systems & Data**
-
-<img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square" alt="Windows" />
-<img src="https://img.shields.io/badge/macOS-555555?style=flat-square&logo=apple&logoColor=white" alt="macOS" />
-<img src="https://img.shields.io/badge/Linux_(basic)-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux (basic)" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
-<img src="https://img.shields.io/badge/Access-A4373A?style=flat-square&logo=microsoftaccess&logoColor=white" alt="Microsoft Access" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+<p>
+  <b>🖥️ Systems &amp; Data</b><br>
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge" alt="Windows" /> <img src="https://img.shields.io/badge/macOS-555555?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" /> <img src="https://img.shields.io/badge/Linux_(basic)-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux (basic)" /> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" /> <img src="https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white" alt="Microsoft Access" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
 
 ---
 
