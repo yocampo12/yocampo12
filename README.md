@@ -28,8 +28,8 @@ Got a question, an opportunity, or just want to talk tech? I'd love to hear from
 🌐 Practicing networking in Cisco Packet Tracer and taking Cisco's CCNA courses<br>
 🚌 Building a shuttle tracker for our campus (*Ikot La Salle*) as my capstone<br>
 💬 Currently learning more about networking and cybersecurity<br>
-🧩 I love figuring out why something isn't working, fixing it, and explaining it in a simple way<br>
-🎯 Looking for an OJT in networking or IT support, starting January 2027
+🧩 Always curious about how devices connect and talk to each other<br>
+🎯 Open to any work that is related to my track, networking
 
 ---
 
