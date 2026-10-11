@@ -50,11 +50,14 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=yocampo12&show_icons=true&theme=transparent&title_color=6366F1&icon_color=06B6D4&text_color=64748B&border_color=CBD5E1" alt="Justine's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yocampo12&layout=compact&theme=transparent&title_color=6366F1&text_color=64748B&border_color=CBD5E1" alt="Most used languages" />
 </p>
 
 <p>
   <img src="https://streak-stats.demolab.com?user=yocampo12&theme=transparent&ring=06B6D4&fire=6366F1&currStreakNum=64748B&currStreakLabel=6366F1&sideNums=64748B&sideLabels=6366F1&dates=94A3B8&border=CBD5E1" alt="GitHub streak" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yocampo12&layout=compact&theme=transparent&title_color=6366F1&text_color=64748B&border_color=CBD5E1" alt="Most used languages" />
 </p>
 
 ---
