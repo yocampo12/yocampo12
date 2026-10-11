@@ -2,28 +2,19 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=110&color=0:6366F1,100:06B6D4&text=Justine%20Dave%20S.%20Ocampo&fontColor=6366F1&fontSize=30&fontAlignY=45&desc=Networking%20Enthusiast&descSize=15&descAlignY=72&descColor=64748B" alt="Justine Dave S. Ocampo - Networking Enthusiast" width="100%" />
 
-<p>
-  <img src="https://img.shields.io/badge/4th--Year-IT_Student-6366F1?style=flat-square" alt="4th-year IT student" />
-  <img src="https://img.shields.io/badge/DLSU--D-Dean's_List-F59E0B?style=flat-square" alt="Dean's List" />
-</p>
-
 </div>
 
----
+### Hi, I'm Justine! 👋
 
-## 👋 Hey there!
+🎓 4th-year IT student at De La Salle University – Dasmariñas<br>
+🌐 Practicing networking in Cisco Packet Tracer and taking Cisco's CCNA courses<br>
+🚌 Building a shuttle tracker for our campus (*Ikot La Salle*) as my capstone<br>
+💬 Currently learning more about networking and cybersecurity<br>
+🎯 Looking for an OJT in networking or IT support, starting January 2027
 
-I'm Justine, an IT student from Imus, Cavite, and I'm happiest when I'm getting different devices to talk to each other. I like figuring out why something isn't working, fixing it, and then explaining it in a way anyone can follow.
-
-Outside of class, I've taken Cisco's CCNA networking courses and spent some time with the DLSU-D IT Program Council, where I learned a lot about working with a team.
-
----
-
-## 🔭 What I'm up to
-
-- 🚌 **Building a shuttle tracker for our campus.** It's my capstone, *Enhancing Ikot La Salle Mobility*. Students can see where the shuttle is and whether there's still a seat. I work on the back-end, the app design, and the hardware.
-- 🌐 **Practicing networking in Cisco Packet Tracer.** I connect routers, switches, and computers, then check whether they can reach each other.
-- 🎯 **Looking for an OJT** in networking or IT support starting January 2027. If you have a spot, I'd love to chat!
+<a href="https://github.com/yocampo12">
+  <img src="https://github-readme-stats.vercel.app/api?username=yocampo12&show_icons=true&theme=transparent&title_color=6366F1&icon_color=06B6D4&text_color=64748B&border_color=CBD5E1" alt="Justine's GitHub stats" />
+</a>
 
 ---
 
