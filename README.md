@@ -5,32 +5,29 @@
 <p>
   <img src="https://img.shields.io/badge/4th--Year-IT_Student-6366F1?style=flat-square" alt="4th-year IT student" />
   <img src="https://img.shields.io/badge/DLSU--D-Dean's_List-F59E0B?style=flat-square" alt="Dean's List" />
-  <img src="https://img.shields.io/badge/Open_to-OJT_Jan_2027-06B6D4?style=flat-square" alt="Open to OJT in January 2027" />
 </p>
 
 </div>
 
 ---
 
-## 👋 About Me
+## 👋 Hey there!
 
-I have a strong interest in **networking and technology**. I like setting up, testing, and fixing technical problems, and I can help with documentation, product demos, and basic technical support.
+I'm Justine, an IT student from Imus, Cavite, and I'm happiest when I'm getting different devices to talk to each other. I like figuring out why something isn't working, fixing it, and then explaining it in a way anyone can follow.
 
-- 🎓 BSIT at **De La Salle University – Dasmariñas** · 2023 – Present
-- 📜 Cisco Networking Academy certified (CCNA networking courses, cybersecurity, and more)
-- 🏛️ Past Logistic Committee member, DLSU-D Information Technology Program Council
-- 📍 Imus, Cavite, PH
+Outside of class, I've taken Cisco's CCNA networking courses and spent some time with the DLSU-D IT Program Council, where I learned a lot about working with a team.
 
 ---
 
-## 🔭 What I'm Working On
+## 🔭 What I'm up to
 
-- 🚌 **Capstone:** *Enhancing Ikot La Salle Mobility*, a system that shows passengers where the campus shuttles are and how many seats are left. I work on the back-end, the app design, and the hardware.
-- 🌐 **Networking practice:** building and troubleshooting networks in Cisco Packet Tracer.
+- 🚌 **Building a shuttle tracker for our campus.** It's my capstone, *Enhancing Ikot La Salle Mobility*. Students can see where the shuttle is and whether there's still a seat. I work on the back-end, the app design, and the hardware.
+- 🌐 **Practicing networking in Cisco Packet Tracer.** I connect routers, switches, and computers, then check whether they can reach each other.
+- 🎯 **Looking for an OJT** in networking or IT support starting January 2027. If you have a spot, I'd love to chat!
 
 ---
 
-## 🛠️ Tools I Use
+## 🛠️ What I use
 
 <p>
   <b>🌐 Networking</b><br>
@@ -62,14 +59,15 @@ I have a strong interest in **networking and technology**. I like setting up, te
 
 <div align="center">
 
-## 📫 How to Reach Me
+## 📫 Say hi!
+
+Got a question, an opportunity, or just want to talk tech? I'd love to hear from you.
 
 <p>
-  <a href="mailto:justinedaveocampo@gmail.com"><img src="https://img.shields.io/badge/Email-justinedaveocampo%40gmail.com-4F46E5?style=flat-square&logo=gmail&logoColor=white" alt="Email: justinedaveocampo@gmail.com" /></a>
+  <a href="mailto:justinedaveocampo@gmail.com"><img src="https://img.shields.io/badge/Email-justinedaveocampo%40gmail.com-6366F1?style=flat-square&logo=gmail&logoColor=white" alt="Email: justinedaveocampo@gmail.com" /></a>
   <a href="https://www.linkedin.com/in/justine-ocampo-9247363b4/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 📱 0969 443 0628
-
 
 </div>
