@@ -7,9 +7,11 @@
 ### Hi, I'm Justine! 👋
 
 🎓 4th-year IT student at De La Salle University – Dasmariñas<br>
+📍 From Imus, Cavite, Philippines 🇵🇭<br>
 🌐 Practicing networking in Cisco Packet Tracer and taking Cisco's CCNA courses<br>
 🚌 Building a shuttle tracker for our campus (*Ikot La Salle*) as my capstone<br>
 💬 Currently learning more about networking and cybersecurity<br>
+🧩 I love figuring out why something isn't working, fixing it, and explaining it in a simple way<br>
 🎯 Looking for an OJT in networking or IT support, starting January 2027
 
 ---
@@ -53,12 +55,6 @@
 
 <p>
   <img src="https://streak-stats.demolab.com?user=yocampo12&theme=transparent&ring=06B6D4&fire=6366F1&currStreakNum=64748B&currStreakLabel=6366F1&sideNums=64748B&sideLabels=6366F1&dates=94A3B8&border=CBD5E1" alt="GitHub streak" />
-</p>
-
-### 🏆 GitHub Trophies
-
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=yocampo12&theme=flat&no-frame=true&margin-w=6&margin-h=6&column=4" alt="GitHub trophies" />
 </p>
 
 ---
