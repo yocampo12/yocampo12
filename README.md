@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=110&color=0:6366F1,100:06B6D4&text=Justine%20Dave%20S.%20Ocampo&fontColor=6366F1&fontSize=30&fontAlignY=45&desc=Networking%20Enthusiast&descSize=15&descAlignY=72&descColor=64748B" alt="Justine Dave S. Ocampo - Networking Enthusiast" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:6366F1,50:3B82F6,100:06B6D4&text=Justine%20Dave%20S.%20Ocampo&fontColor=ffffff&fontSize=36&fontAlignY=36&animation=twinkling&desc=Networking%20Enthusiast%20%E2%80%A2%20Turning%20ideas%20into%20connected%20systems&descSize=16&descAlignY=58" alt="Justine Dave S. Ocampo - Networking Enthusiast" width="100%" />
 
 </div>
 
@@ -75,5 +75,11 @@ Got a question, an opportunity, or just want to talk tech? I'd love to hear from
 </p>
 
 📱 0969 443 0628
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:06B6D4,50:3B82F6,100:6366F1&section=footer&animation=twinkling" alt="Footer" width="100%" />
 
 </div>
