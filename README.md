@@ -1,13 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=170&color=0:4F46E5,100:06B6D4&text=Hi%2C%20I'm%20Justine&fontColor=ffffff&fontSize=44&fontAlignY=45&animation=fadeIn&desc=Welcome%20to%20my%20GitHub&descSize=18&descAlignY=68" alt="Hi, I'm Justine - welcome to my GitHub" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=520&height=50&lines=Justine+Dave+S.+Ocampo;Networking+Enthusiast" alt="Typing animation: Justine Dave S. Ocampo, networking enthusiast" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=110&color=0:6366F1,100:06B6D4&text=Justine%20Dave%20S.%20Ocampo&fontColor=6366F1&fontSize=30&fontAlignY=45&desc=Networking%20Enthusiast&descSize=15&descAlignY=72&descColor=64748B" alt="Justine Dave S. Ocampo - Networking Enthusiast" width="100%" />
 
 <p>
-  <img src="https://img.shields.io/badge/4th--Year-IT_Student-4F46E5?style=for-the-badge" alt="4th-year IT student" />
-  <img src="https://img.shields.io/badge/DLSU--D-Dean's_List-F59E0B?style=for-the-badge" alt="Dean's List" />
-  <img src="https://img.shields.io/badge/Open_to-OJT_Jan_2027-06B6D4?style=for-the-badge" alt="Open to OJT in January 2027" />
+  <img src="https://img.shields.io/badge/4th--Year-IT_Student-6366F1?style=flat-square" alt="4th-year IT student" />
+  <img src="https://img.shields.io/badge/DLSU--D-Dean's_List-F59E0B?style=flat-square" alt="Dean's List" />
+  <img src="https://img.shields.io/badge/Open_to-OJT_Jan_2027-06B6D4?style=flat-square" alt="Open to OJT in January 2027" />
 </p>
 
 </div>
@@ -67,12 +65,11 @@ I have a strong interest in **networking and technology**. I like setting up, te
 ## 📫 How to Reach Me
 
 <p>
-  <a href="mailto:justinedaveocampo@gmail.com"><img src="https://img.shields.io/badge/Email-justinedaveocampo%40gmail.com-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: justinedaveocampo@gmail.com" /></a>
-  <a href="https://www.linkedin.com/in/justine-ocampo-9247363b4/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:justinedaveocampo@gmail.com"><img src="https://img.shields.io/badge/Email-justinedaveocampo%40gmail.com-4F46E5?style=flat-square&logo=gmail&logoColor=white" alt="Email: justinedaveocampo@gmail.com" /></a>
+  <a href="https://www.linkedin.com/in/justine-ocampo-9247363b4/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 📱 0969 443 0628
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:06B6D4,100:4F46E5&section=footer" alt="Footer" width="100%" />
 
 </div>
