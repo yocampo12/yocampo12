@@ -4,6 +4,23 @@
 
 </div>
 
+<div align="center">
+
+## 📫 Say hi!
+
+Got a question, an opportunity, or just want to talk tech? I'd love to hear from you.
+
+<p>
+  <a href="mailto:justinedaveocampo@gmail.com"><img src="https://img.shields.io/badge/Email-justinedaveocampo%40gmail.com-6366F1?style=flat-square&logo=gmail&logoColor=white" alt="Email: justinedaveocampo@gmail.com" /></a>
+  <a href="https://www.linkedin.com/in/justine-ocampo-9247363b4/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+📱 0969 443 0628
+
+</div>
+
+---
+
 ### Hi, I'm Justine! 👋
 
 🎓 4th-year IT student at De La Salle University – Dasmariñas<br>
@@ -61,21 +78,6 @@
 </p>
 
 ---
-
-<div align="center">
-
-## 📫 Say hi!
-
-Got a question, an opportunity, or just want to talk tech? I'd love to hear from you.
-
-<p>
-  <a href="mailto:justinedaveocampo@gmail.com"><img src="https://img.shields.io/badge/Email-justinedaveocampo%40gmail.com-6366F1?style=flat-square&logo=gmail&logoColor=white" alt="Email: justinedaveocampo@gmail.com" /></a>
-  <a href="https://www.linkedin.com/in/justine-ocampo-9247363b4/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
-
-📱 0969 443 0628
-
-</div>
 
 <div align="center">
 
