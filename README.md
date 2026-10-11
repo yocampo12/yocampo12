@@ -12,10 +12,6 @@
 💬 Currently learning more about networking and cybersecurity<br>
 🎯 Looking for an OJT in networking or IT support, starting January 2027
 
-<a href="https://github.com/yocampo12">
-  <img src="https://github-readme-stats.vercel.app/api?username=yocampo12&show_icons=true&theme=transparent&title_color=6366F1&icon_color=06B6D4&text_color=64748B&border_color=CBD5E1" alt="Justine's GitHub stats" />
-</a>
-
 ---
 
 ## 🛠️ What I use
@@ -44,6 +40,25 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white" alt="Microsoft Access" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=yocampo12&show_icons=true&theme=transparent&title_color=6366F1&icon_color=06B6D4&text_color=64748B&border_color=CBD5E1" alt="Justine's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yocampo12&layout=compact&theme=transparent&title_color=6366F1&text_color=64748B&border_color=CBD5E1" alt="Most used languages" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=yocampo12&theme=transparent&ring=06B6D4&fire=6366F1&currStreakNum=64748B&currStreakLabel=6366F1&sideNums=64748B&sideLabels=6366F1&dates=94A3B8&border=CBD5E1" alt="GitHub streak" />
+</p>
+
+### 🏆 GitHub Trophies
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=yocampo12&theme=flat&no-frame=true&margin-w=6&margin-h=6&column=4" alt="GitHub trophies" />
 </p>
 
 ---
