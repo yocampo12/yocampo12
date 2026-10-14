@@ -9,8 +9,8 @@
 - **Studying:** 4th-year IT student at De La Salle University – Dasmariñas
 - **From:** Imus, Cavite, Philippines
 - **Practicing:** networking in Cisco Packet Tracer and taking Cisco's CCNA courses
-- **Building:** a shuttle tracker for our campus (*Ikot La Salle*) as my capstone
-- **Learning:** more about networking and cybersecurity
+- **Building:** an "Ikot Go" app in playstore, jeepney tracker for our campus (DLSUD) as my capstone project
+- **Learning:** more about networking
 - **Curious about:** how devices connect and talk to each other
 - **Open to:** any work that is related to my track, networking
 
