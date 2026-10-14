@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:6366F1,50:3B82F6,100:06B6D4&text=Justine%20Dave%20S.%20Ocampo&fontColor=ffffff&fontSize=36&fontAlignY=36&animation=twinkling&desc=Networking%20Enthusiast%20%E2%80%A2%20Turning%20ideas%20into%20connected%20systems&descSize=16&descAlignY=58" alt="Justine Dave S. Ocampo - Networking Enthusiast" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:6366F1,50:3B82F6,100:06B6D4&text=Justine%20Dave%20S.%20Ocampo&fontColor=ffffff&fontSize=36&fontAlignY=42&animation=twinkling" alt="Justine Dave S. Ocampo" width="100%" />
 
 </div>
 
