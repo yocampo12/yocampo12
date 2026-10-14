@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:6366F1,50:3B82F6,100:06B6D4&text=Justine%20Dave%20S.%20Ocampo&fontColor=ffffff&fontSize=24&fontAlignY=38&animation=twinkling" alt="Justine Dave S. Ocampo" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:6366F1,50:3B82F6,100:06B6D4&text=Justine%20Ocampo&fontColor=ffffff&fontSize=24&fontAlignY=38&animation=twinkling" alt="Justine Dave S. Ocampo" width="100%" />
 
 </div>
 
