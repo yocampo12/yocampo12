@@ -21,7 +21,6 @@
 - **Email:** [justinedaveocampo@gmail.com](mailto:justinedaveocampo@gmail.com)
 - **Phone (Philippines):** [+63 969 443 0628](tel:+639694430628)
 - **LinkedIn:** [Justine Ocampo](https://www.linkedin.com/in/justine-ocampo-9247363b4/)
-- **GitHub:** [@yocampo12](https://github.com/yocampo12)
 
 ---
 
