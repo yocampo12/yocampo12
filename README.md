@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:6366F1,50:3B82F6,100:06B6D4&text=Justine%20Dave%20S.%20Ocampo&fontColor=ffffff&fontSize=24&fontAlignY=38&animation=twinkling" alt="Justine Dave S. Ocampo" width="100%" />
 
-<a href="mailto:justinedaveocampo@gmail.com"><img src="https://img.shields.io/badge/Email-justinedaveocampo%40gmail.com-6366F1?style=flat-square&logo=gmail&logoColor=white" alt="Email: justinedaveocampo@gmail.com" /></a>
-<a href="https://www.linkedin.com/in/justine-ocampo-9247363b4/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="tel:+639694430628"><img src="https://img.shields.io/badge/Phone-0969_443_0628-06B6D4?style=flat-square" alt="Phone: 0969 443 0628" /></a>
-
 </div>
 
 ### Hi, I'm Justine! 👋
@@ -17,6 +13,15 @@
 💬 Currently learning more about networking and cybersecurity<br>
 🧩 Always curious about how devices connect and talk to each other<br>
 🎯 Open to any work that is related to my track, networking
+
+---
+
+## 📫 Contact & Socials
+
+- 📧 **Email:** [justinedaveocampo@gmail.com](mailto:justinedaveocampo@gmail.com)
+- 📱 **Phone:** [0969 443 0628](tel:+639694430628)
+- 💼 **LinkedIn:** [Justine Ocampo](https://www.linkedin.com/in/justine-ocampo-9247363b4/)
+- 🐙 **GitHub:** [@yocampo12](https://github.com/yocampo12)
 
 ---
 
