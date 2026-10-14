@@ -4,37 +4,37 @@
 
 </div>
 
-### Hi, I'm Justine! 👋
+### Hi, I'm Justine!
 
-🎓 4th-year IT student at De La Salle University – Dasmariñas<br>
-📍 From Imus, Cavite, Philippines 🇵🇭<br>
-🌐 Practicing networking in Cisco Packet Tracer and taking Cisco's CCNA courses<br>
-🚌 Building a shuttle tracker for our campus (*Ikot La Salle*) as my capstone<br>
-💬 Currently learning more about networking and cybersecurity<br>
-🧩 Always curious about how devices connect and talk to each other<br>
-🎯 Open to any work that is related to my track, networking
-
----
-
-## 📫 Contact & Socials
-
-- 📧 **Email:** [justinedaveocampo@gmail.com](mailto:justinedaveocampo@gmail.com)
-- 📱 **Phone:** [0969 443 0628](tel:+639694430628)
-- 💼 **LinkedIn:** [Justine Ocampo](https://www.linkedin.com/in/justine-ocampo-9247363b4/)
-- 🐙 **GitHub:** [@yocampo12](https://github.com/yocampo12)
+- **Studying:** 4th-year IT student at De La Salle University – Dasmariñas
+- **From:** Imus, Cavite, Philippines
+- **Practicing:** networking in Cisco Packet Tracer and taking Cisco's CCNA courses
+- **Building:** a shuttle tracker for our campus (*Ikot La Salle*) as my capstone
+- **Learning:** more about networking and cybersecurity
+- **Curious about:** how devices connect and talk to each other
+- **Open to:** any work that is related to my track, networking
 
 ---
 
-## 🛠️ What I use
+## Contact & Socials
+
+- **Email:** [justinedaveocampo@gmail.com](mailto:justinedaveocampo@gmail.com)
+- **Phone (Philippines):** [+63 969 443 0628](tel:+639694430628)
+- **LinkedIn:** [Justine Ocampo](https://www.linkedin.com/in/justine-ocampo-9247363b4/)
+- **GitHub:** [@yocampo12](https://github.com/yocampo12)
+
+---
+
+## What I use
 
 <p>
-  <b>🌐 Networking</b><br>
+  <b>Networking</b><br>
   <img src="https://img.shields.io/badge/Cisco-Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
   <img src="https://img.shields.io/badge/CCNA-Networking_Courses-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA networking courses" />
 </p>
 
 <p>
-  <b>💻 Programming</b><br>
+  <b>Programming</b><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -43,7 +43,7 @@
 </p>
 
 <p>
-  <b>🖥️ Systems &amp; Data</b><br>
+  <b>Systems &amp; Data</b><br>
   <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge" alt="Windows" />
   <img src="https://img.shields.io/badge/macOS-555555?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
   <img src="https://img.shields.io/badge/Linux_(basic)-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux (basic)" />
@@ -55,7 +55,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=yocampo12&show_icons=true&theme=transparent&title_color=6366F1&icon_color=06B6D4&text_color=64748B&border_color=CBD5E1" alt="Justine's GitHub stats" />
